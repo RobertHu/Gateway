@@ -1,0 +1,16 @@
+D:\VsProjects\Gateway\bin\Debug\Gateway.exe.config
+D:\VsProjects\Gateway\bin\Debug\Gateway.exe
+D:\VsProjects\Gateway\bin\Debug\Gateway.pdb
+D:\VsProjects\Gateway\bin\Debug\Protocal.dll
+D:\VsProjects\Gateway\bin\Debug\iExchange.Common.dll
+D:\VsProjects\Gateway\bin\Debug\Framework.dll
+D:\VsProjects\Gateway\bin\Debug\Protocal.pdb
+D:\VsProjects\Gateway\bin\Debug\iExchange.Common.pdb
+D:\VsProjects\Gateway\bin\Debug\Framework.pdb
+D:\VsProjects\Gateway\obj\Debug\Gateway.csprojResolveAssemblyReference.cache
+D:\VsProjects\Gateway\obj\Debug\Gateway.exe
+D:\VsProjects\Gateway\obj\Debug\Gateway.pdb
+D:\VsProjects\Gateway\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\VsProjects\Gateway\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\VsProjects\Gateway\bin\Debug\Manager.Common.dll
+D:\VsProjects\Gateway\bin\Debug\Manager.Common.pdb

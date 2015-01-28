@@ -1,0 +1,12 @@
+D:\VsProjects\Gateway\Test\bin\Debug\Test.exe.config
+D:\VsProjects\Gateway\Test\bin\Debug\Test.exe
+D:\VsProjects\Gateway\Test\bin\Debug\Test.pdb
+D:\VsProjects\Gateway\Test\bin\Debug\Protocal.dll
+D:\VsProjects\Gateway\Test\bin\Debug\iExchange.Common.dll
+D:\VsProjects\Gateway\Test\bin\Debug\Framework.dll
+D:\VsProjects\Gateway\Test\bin\Debug\Protocal.pdb
+D:\VsProjects\Gateway\Test\bin\Debug\iExchange.Common.pdb
+D:\VsProjects\Gateway\Test\bin\Debug\Framework.pdb
+D:\VsProjects\Gateway\Test\obj\Debug\Test.exe
+D:\VsProjects\Gateway\Test\obj\Debug\Test.pdb
+D:\VsProjects\Gateway\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

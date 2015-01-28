@@ -1,0 +1,9 @@
+D:\VsProjects\Protocal\obj\Debug\Protocal.csprojResolveAssemblyReference.cache
+D:\VsProjects\Protocal\bin\Debug\Protocal.dll
+D:\VsProjects\Protocal\bin\Debug\Protocal.pdb
+D:\VsProjects\Protocal\bin\Debug\iExchange.Common.dll
+D:\VsProjects\Protocal\bin\Debug\Framework.dll
+D:\VsProjects\Protocal\bin\Debug\iExchange.Common.pdb
+D:\VsProjects\Protocal\bin\Debug\Framework.pdb
+D:\VsProjects\Protocal\obj\Debug\Protocal.dll
+D:\VsProjects\Protocal\obj\Debug\Protocal.pdb
